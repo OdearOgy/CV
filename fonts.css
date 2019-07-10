@@ -1,0 +1,61 @@
+/* cambria */
+@font-face {
+    font-family: Cambria;
+    font-display: auto;
+    font-weight: 500;
+    font-style: normal;
+    src: url('../fonts/cambria/cambria-l.ttf');
+}
+@font-face {
+    font-family: Cambria;
+    font-display: auto;
+    font-weight: 700;
+    font-style: normal;
+    src: url('../fonts/cambria/cambria-b.ttf');
+}
+@font-face {
+    font-family: Cambria;
+    font-display: auto;
+    font-weight: 500;
+    font-style: italic;
+    src: url('../fonts/cambria/cambria-li.ttf');
+}
+@font-face {
+    font-family: Cambria;
+    font-display: auto;
+    font-weight: 700;
+    font-style: italic;
+    src: url('../fonts/cambria/cambria-bi.ttf');
+}
+
+
+/* calibre */
+
+@font-face {
+    font-family: Calibre;
+    font-display: auto;
+    font-weight: 500;
+    font-style: normal;
+    src: url('../fonts/calibre/Calibre-Light.otf');
+}
+@font-face {
+    font-family: Calibre;
+    font-display: auto;
+    font-weight: 700;
+    font-style: normal;
+    src: url('../fonts/calibre/Calibre-Bold.otf');
+}
+@font-face {
+    font-family: Calibre;
+    font-display: auto;
+    font-weight: 500;
+    font-style: italic;
+    src: url('../fonts/calibre/Calibre-LightItalic.otf');
+}
+@font-face {
+    font-family: Calibre;
+    font-display: auto;
+    font-weight: 700;
+    font-style: italic;    
+    src: url('../fonts/calibre/Calibre-BoldItalic.otf');
+}
