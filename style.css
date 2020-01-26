@@ -63,7 +63,7 @@ main section h2 {
   text-transform: uppercase;
 }
 
-main .proj-section p,
+main .proj-section p:not(.project-description),
 main section a {
   margin: .2rem;
   font-size: 2.2rem;
@@ -125,10 +125,14 @@ main section a {
   list-style-type: none;
 }
 
-.proj-text h4 {
+.proj-text h4, 
+.proj-text .project-description {
   text-align: center;
 }
 
+.proj-text .project-description {
+  font-size: 1.5rem;
+}
 /* project section end */
 
 
