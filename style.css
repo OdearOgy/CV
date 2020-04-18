@@ -89,6 +89,7 @@ main section div {
 	margin: 2rem 0;
 }
 
+/* summary section */
 .summary-text {
 	text-align: left;
 	font-size: 2rem;
@@ -99,6 +100,8 @@ main section div {
 	text-decoration: underline;
 	opacity: 0.85;
 }
+
+/* summary section end */
 
 .experience-text {
 	display: flex;
@@ -143,6 +146,10 @@ main section div {
 
 .project-text li {
 	list-style-type: none;
+}
+
+.project-stack {
+	margin: 0.5rem 0;
 }
 
 /* project section end */
